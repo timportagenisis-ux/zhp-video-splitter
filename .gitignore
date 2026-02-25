@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution
+/dist/
+/build/
+*.egg-info/
+
+# Output files
+/slots/
+slots.zip
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Other
+ffmpeg-release-essentials.zip
+ffmpeg.7z
+node-installer.msi
